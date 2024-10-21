@@ -1,0 +1,248 @@
+﻿Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log DatabaseBackupLogger on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.InvalidOperationException: Cannot find Log DatabaseBackupLogger on computer '.'.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log DatabaseBackupLogger...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Creating EventLog source DatabaseBackup in log Application...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+Service DatabaseBackup is being removed from the system...
+Service DatabaseBackup was successfully removed from the system.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Rolling back assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Restoring event log to previous state for source DatabaseBackup.
+Service DatabaseBackup is being removed from the system...
+Service DatabaseBackup was successfully removed from the system.
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+Installing service DatabaseBackup...
+Service DatabaseBackup has been successfully installed.
+Creating EventLog source DatabaseBackup in log Application...
+Committing assembly 'C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.InstallLog
+   assemblypath = C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe

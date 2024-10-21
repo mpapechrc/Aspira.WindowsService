@@ -1,0 +1,10 @@
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe.config
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.exe
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\bin\Release\WindowsService.Net.Framework.pdb
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.csproj.AssemblyReference.cache
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.ProjectInstaller.resources
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.csproj.GenerateResource.cache
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.csproj.CoreCompileInputs.cache
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.exe
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.pdb
+C:\Users\MilivojPapec\source\repos\Aspira.WindowsService\WindowsService.Net.Framework\obj\Release\WindowsService.Net.Framework.DatabaseBackup.resources
